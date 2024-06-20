@@ -3,6 +3,3 @@
 欢迎加入我们一起开发有趣的应用😘<br>
 > [!TIP]
 > 我们的"老大"是 [@SALTWOOD](https://github.com/SALTWOOD) (**盐木**)<br>
-
-### 热门项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaltWood-Studio&repo=CSharp-OpenBMCLAPI)](https://github.com/anuraghazra/github-readme-stats)
